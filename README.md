@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [hashnode.com/@backendbro](https://hashnode.com/@backendbro)
 
-- 💬 Ask me about **Node.js, MongoDB, Javascript, Typescript**
+- 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript**
 
 - 📫 How to reach me **ukagha.nzubechukwu@yahoo.com**
 
