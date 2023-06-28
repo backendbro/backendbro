@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/one-person-answering-question-technology-issues-wants-to-be-full-stack-developer-questionnaire-technology-260582721.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/mix-race-web-developers-creating-program-code-development-software-programming-concept-portrait-copy-space_48369-33953.jpg?w=1060)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Ukagha Promise</h1>
