@@ -1,19 +1,19 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/back-end-developer-web-banner-template-vector-illustration-page-modern-flat-cartoon-young-man-sitting-bag-chair-195207286.jpg)](https://rishavchanda.io)
+[![MasterHead](https://thumbs.dreamstime.com/z/one-person-answering-question-technology-issues-wants-to-be-full-stack-developer-questionnaire-technology-260582721.jpg)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Ukagha Promise</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 📝 I regularly write articles on [hashnode.com/@backendbro](https://hashnode.com/@backendbro)
 
-- 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript**
+- 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript, Git, SQL**
 
 - 📫 How to reach me **ukagha.nzubechukwu@yahoo.com**
 
