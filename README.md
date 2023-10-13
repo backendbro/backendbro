@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Linux**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 📝 I regularly write articles on [hashnode.com/@backendbro](https://hashnode.com/@backendbro)
+- 📝 I regularly write articles on [dev.to/backendbro](https://dev.to/backendbro)
 
 - 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript, Git, SQL**
 
@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hashnode.com/@backendbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@backendbro" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
