@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [dev.to/backendbro](https://dev.to/backendbro)
 
-- 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript, Git, SQL**
+- 💬 Ask me about **Node.js, MongoDB, Javascript, React, Tailwind, Typescript, Git, GraphQL, SQL**
 
 - 📫 How to reach me **ukagha.nzubechukwu@yahoo.com**
 
